@@ -16,12 +16,13 @@ organizations:
   url: https://www.astron.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Working on fast radio bursts (FRBs)
+bio: PhD student in astrophysics, studying fast radio bursts.
 
 # Interests to show in About widget
 interests:
 - Fast Radio Bursts
 - Pulsars
+- Transients
 - High energy astrophysical phenomena
 
 # Education to show in About widget
