@@ -1,5 +1,5 @@
 ---
-title: "Chromatic periodic activity down to 120 megahertz in a fast radio burst"
+title: "The intermediate polar cataclysmic variable GK Persei 120 years after the nova explosion: a first dynamical mass study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
