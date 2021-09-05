@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Inés Pastor-Marazuela
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in astrophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Anton Pannekoek Institute, University of Amsterdam
+  url: https://api.uva.nl/
+- name: ASTRON
+  url: https://www.astron.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Working on fast radio bursts (FRBs)
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fast Radio Bursts
+- Pulsars
+- High energy astrophysical phenomena
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Astrophysics
+    institution: Université Paul Sabatier, Toulouse, France
+    year: 2018
+  - course: BSc in Physics
+    institution: Université Paul Sabatier, Toulouse, France
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,17 +44,14 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/SepiaEspacial
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/InesPM
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
+  link: https://www.linkedin.com/in/in%C3%A9s-pastor-marazuela-07951113b/
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -64,14 +60,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ines.pastor.marazuela@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a final year PhD student in astrophysics at the Anton Pannekoek Institute (University of Amsterdam), working on fast radio burst searches with the Apertif radio telescope. I completed my Master at the Université Paul Sabatier (Toulouse, France) in 2018, and I am originally from Segovia, Spain.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
