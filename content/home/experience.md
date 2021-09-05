@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: PhD astrophysics
+    company: Anton Pannekoek Institute
+    company_url: 'https://api.uva.nl/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Amsterdam
+    date_start: '2018-09-15'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Looking for fast radio bursts with Apertif
+#    |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Master Thesis
+    company: IRAP
+    company_url: 'https://www.irap.omp.eu/en/homepage-en/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Toulouse, France
+    date_start: '2018-01-01'
+    date_end: '2018-06-30'
+    description: Search for faint transients in XMM-Newton data
+    
+  - title: Research project
+    company: Universidad Complutense de Madrid
+    company_logo: org-x
+    location: Madrid, Spain
+    date_start: '2017-07-01'
+    date_end: '2017-08-01'
+    description: Looking for Dark Matter subhalos among the Fermi-LAT Third Source catalog
 
 design:
   columns: '2'
