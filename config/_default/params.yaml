@@ -7,7 +7,7 @@
 
 theme: my_theme
 day_night: true
-font: 'Playfair+Display'
+font: ''
 font_size: L
 
 # SEO
