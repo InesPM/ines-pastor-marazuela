@@ -8,7 +8,7 @@ author: admin
 widget_id: header
 design:
   background:
-    image: ""
+    image: R3-CoverA-07-Landscape-01-1000h.png
     image_darken: 0.6
     image_size: cover
     image_position: center
