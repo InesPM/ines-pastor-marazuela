@@ -3,47 +3,46 @@ title: A bright, high rotation-measure FRB that skewers the M33 halo
 publication_types:
   - "2"
 authors:
-  - Connor
-  - Liam and van Leeuwen
-  - Joeri and Oostrum
-  - L. C. and Petroff
-  - E. and Maan
-  - Yogesh and Adams
-  - E. A. K. and Attema
-  - J. J. and Bast
-  - J. E. and Boersma
-  - O. M. and Dénes
-  - H. and Gardenier
-  - D. W. and Hargreaves
-  - J. E. and Kooistra
-  - E. and Pastor-Marazuela
-  - I. and Schulz
-  - R. and Sclocco
-  - A. and Smits
-  - R. and Straal
-  - S. M. and van der Schuur
-  - D. and Vohl
-  - Dany and Adebahr
-  - B. and de Blok
-  - W. J. G. and van Cappellen
-  - W. A. and Coolen
-  - A. H. W. M. and Damstra
-  - S. and van Diepen
-  - G. N. J. and Frank
-  - B. S. and Hess
-  - K. M. and Hut
-  - B. and Loose
-  - G. Marcel and Lucero
-  - D. M. and Mika
-  - Á and Moss
-  - V. A. and Mulder
-  - H. and Oosterloo
-  - T. A. and Ruiter
-  - M. and Vedantham
-  - H. and Vermaas
-  - N. J. and Wijnholds
-  - S. J. and Ziemke
-  - J.
+- Liam Connor
+- Joeri van Leeuwen
+- L. C. Oostrum
+- E. Petroff
+- Yogesh Maan
+- E. A. K. Adams
+- J. J. Attema
+- J. E. Bast
+- O. M. Boersma
+- H. Dénes
+- D. W. Gardenier
+- J. E. Hargreaves
+- E. Kooistra
+- admin
+- R. Schulz
+- A. Sclocco
+- R. Smits
+- S. M. Straal
+- D. van der Schuur
+- Dany Vohl
+- B. Adebahr
+- W. J. G. de Blok
+- W. A. van Cappellen
+- A. H. W. M. Coolen
+- S. Damstra
+- G. N. J. van Diepen
+- B. S. Frank
+- K. M. Hess
+- B. Hut 
+- G. Marcel Loose
+- D. M. Lucero
+- Á. Mika
+- V. A. Moss
+- H. Mulder
+- T. A. Oosterloo
+- M. Ruiter
+- H. Vedantham
+- N. J. Vermaas
+- S. J. Wijnholds
+- J. Ziemke
 doi: 10.1093/mnras/staa3009
 publication: "     Monthly Notices of the Royal Astronomical Society"
 publication_short: MNRAS
@@ -64,6 +63,9 @@ abstract: We report the detection of a bright fast radio burst, FRB 191108, with
   accompanying persistent radio sources in the Apertif imaging survey data.
 draft: false
 featured: false
+link:
+- name: arXiv
+  url: http://arxiv.org/abs/2002.01399
 image:
   filename: featured
   focal_point: Smart
