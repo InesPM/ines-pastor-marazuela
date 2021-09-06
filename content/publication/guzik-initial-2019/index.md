@@ -5,11 +5,11 @@ title: "Initial characterization of interstellar comet 2I/Borisov"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Guzik, Piotr
-- Drahus, Michał
-- Rusek, Krzysztof
-- Waniak, Wacław
-- Cannizzaro, Giacomo
+- Piotr Guzik
+- Michał Drahus
+- Krzysztof Rusek
+- Wacław Waniak
+- Giacomo Cannizzaro
 - admin
 
 # Author notes (optional)
@@ -46,16 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: arXiv
-#url: http://example.org
-  url_pdf: 'https://arxiv.org/pdf/1909.05851.pdf'
-#url_code: ''
-#url_dataset: ''
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-- name: Journal
-  url_source: 'https://www.nature.com/articles/s41550-019-0931-8'
-#url_video: ''
+  url: 'https://arxiv.org/pdf/1909.05851.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
