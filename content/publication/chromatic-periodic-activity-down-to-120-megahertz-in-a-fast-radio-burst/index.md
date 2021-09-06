@@ -4,42 +4,42 @@ publication_types:
   - "2"
 authors:
 - admin
-- Connor, Liam 
-- van Leeuwen, Joeri
-- Maan, Yogesh 
-- ter Veen, Sander
-- Bilous, Anna
-- Oostrum, Leon
-- Petroff, Emily
-- Straal, Samayra
-- Vohl, Dany
-- Attema, Jisk
-- Boersma, Oliver M.
-- Kooistra, Eric
-- van der Schuur, Daniel
-- Sclocco, Alessio 
-- Smits, Roy
-- Adams, Elizabeth A. K.
-- Adebahr, Björn 
-- de Blok, W. J. G. 
-- Coolen, Arthur H. W. M.
-- Damstra, Sieds
-- Dénes, Helga
-- Hess, Kelley M.
-- van der Hulst, Thijs
-- Hut, Boudewijn
-- Ivashina, V. Marianna
-- Kutkin, Alexander
-- Loose, G. Marcel
-- Lucero, Danielle M.
-- Mika, Ágnes
-- Moss, Vanessa A.
-- Mulder, Henk
-- Norden, Menno J.
-- Oosterloo, Tom
-- Orrú, Emanuela
-- Ruiter, Mark
-- Wijnholds, Stefan J.
+- Liam Connor 
+- Joeri van Leeuwen
+- Yogesh Maan 
+- Sander ter Veen
+- Anna Bilous
+- Leon Oostrum
+- Emily Petroff
+- Samayra Straal
+- Dany Vohl
+- Jisk Attema
+- Oliver M. Boersma
+- Eric Kooistra
+- Daniel van der Schuur
+- Alessio Sclocco 
+- Roy Smits
+- Elizabeth A. K. Adams
+- Björn Adebahr 
+- W. J. G. de Blok 
+- Arthur H. W. M. Coolen
+- Sieds Damstra
+- Helga Dénes
+- Kelley M. Hess
+- Thijs van der Hulst
+- Boudewijn Hut
+- V. Marianna Ivashina
+- Alexander Kutkin
+- G. Marcel Loose
+- Danielle M. Lucero
+- Ágnes Mika
+- Vanessa A. Moss
+- Henk Mulder
+- Menno J. Norden
+- Tom Oosterloo
+- Emanuela Orrú
+- Mark Ruiter
+- Stefan J. Wijnholds
 doi: 10.1038/s41586-021-03724-8
 publication: Nature
 publication_short: Nat
@@ -66,6 +66,9 @@ abstract: Fast radio bursts (FRBs) are extragalactic astrophysical transients1
   low-frequency radiation.
 draft: false
 featured: false
+links:
+- name: arXiv
+  url: https://arxiv.org/pdf/2012.08348.pdf
 image:
   filename: featured
   focal_point: Smart
