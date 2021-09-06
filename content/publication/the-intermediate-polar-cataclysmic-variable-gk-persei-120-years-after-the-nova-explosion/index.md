@@ -5,25 +5,25 @@ subtitle: a first dynamical mass study
 publication_types:
   - "2"
 authors:
-  - Álvarez-Hernández
-  - A. and Torres
-  - M. A. P. and Rodríguez-Gil
-  - P. and Shahbaz
-  - T. and Anupama
-  - G. C. and Gazeas
-  - K. D. and Pavana
-  - M. and Raj
-  - A. and Hakala
-  - P. and Stone
-  - G. and Gomez
-  - S. and Jonker
-  - P. G. and Ren
-  - J.-J. and Cannizzaro
-  - G. and Pastor-Marazuela
-  - I. and Goff
-  - W. and Corral-Santana
-  - J. M. and Sabo
-  - R.
+- A. Álvarez-Hernández
+- M. A. P. Torres
+- P. Rodríguez-Gil
+- T. Shahbaz
+- G. C. Anupama
+- K. D. Gazeas
+- M. Pavana
+- A. Raj
+- P. Hakala
+- G. Stone
+- S. Gomez
+- P. G. Jonker
+- J.-J. Ren
+- G. Cannizzaro
+- admin
+- W. Goff
+- J. M. Corral-Santana
+- R. Sabo
+
 doi: http://arxiv.org/abs/2107.06932
 publication: Monthly Notices of the Royal Astronomical Society
 publication_short: MNRAS
@@ -45,6 +45,9 @@ abstract: We present a complete dynamical study of the intermediate polar and
   and during dwarf nova outburst.
 draft: false
 featured: false
+link:
+- name: arXiv
+  url: http://arxiv.org/abs/2107.06932
 image:
   filename: featured
   focal_point: Smart
