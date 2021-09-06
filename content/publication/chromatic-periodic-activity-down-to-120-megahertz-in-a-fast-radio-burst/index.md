@@ -3,44 +3,43 @@ title: Chromatic periodic activity down to 120 megahertz in a fast radio burst
 publication_types:
   - "2"
 authors:
-  - Pastor-Marazuela
-  - Inés and Connor
-  - Liam and van Leeuwen
-  - Joeri and Maan
-  - Yogesh and ter Veen
-  - Sander and Bilous
-  - Anna and Oostrum
-  - Leon and Petroff
-  - Emily and Straal
-  - Samayra and Vohl
-  - Dany and Attema
-  - Jisk and Boersma
-  - Oliver M. and Kooistra
-  - Eric and van der Schuur
-  - Daniel and Sclocco
-  - Alessio and Smits
-  - Roy and Adams
-  - Elizabeth A. K. and Adebahr
-  - Björn and de Blok
-  - W. J. G. and Coolen
-  - Arthur H. W. M. and Damstra
-  - Sieds and Dénes
-  - Helga and Hess
-  - Kelley M. and van der Hulst
-  - Thijs and Hut
-  - Boudewijn and Ivashina
-  - V. Marianna and Kutkin
-  - Alexander and Loose
-  - G. Marcel and Lucero
-  - Danielle M. and Mika
-  - Ágnes and Moss
-  - Vanessa A. and Mulder
-  - Henk and Norden
-  - Menno J. and Oosterloo
-  - Tom and Orrú
-  - Emanuela and Ruiter
-  - Mark and Wijnholds
-  - Stefan J.
+- admin
+- Connor, Liam 
+- van Leeuwen, Joeri
+- Maan, Yogesh 
+- ter Veen, Sander
+- Bilous, Anna
+- Oostrum, Leon
+- Petroff, Emily
+- Straal, Samayra
+- Vohl, Dany
+- Attema, Jisk
+- Boersma, Oliver M.
+- Kooistra, Eric
+- van der Schuur, Daniel
+- Sclocco, Alessio 
+- Smits, Roy
+- Adams, Elizabeth A. K.
+- Adebahr, Björn 
+- de Blok, W. J. G. 
+- Coolen, Arthur H. W. M.
+- Damstra, Sieds
+- Dénes, Helga
+- Hess, Kelley M.
+- van der Hulst, Thijs
+- Hut, Boudewijn
+- Ivashina, V. Marianna
+- Kutkin, Alexander
+- Loose, G. Marcel
+- Lucero, Danielle M.
+- Mika, Ágnes
+- Moss, Vanessa A.
+- Mulder, Henk
+- Norden, Menno J.
+- Oosterloo, Tom
+- Orrú, Emanuela
+- Ruiter, Mark
+- Wijnholds, Stefan J.
 doi: 10.1038/s41586-021-03724-8
 publication: Nature
 publication_short: Nat
