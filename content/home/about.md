@@ -5,7 +5,7 @@ weight: 10
 title: About
 active: true
 author: admin
-widget_id: header
+widget_id: about
 design:
   background:
     image: R3-CoverA-07-Landscape-01-1000h.png
