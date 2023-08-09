@@ -6,8 +6,7 @@ title: Inés Pastor-Marazuela
 superuser: true
 
 # Role/position/tagline
-role: PhD student in astrophysics
-
+role: Rubicon Research Fellow in Astrophysics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Anton Pannekoek Institute, University of Amsterdam
@@ -21,13 +20,16 @@ bio: PhD student in astrophysics, studying fast radio bursts.
 # Interests to show in About widget
 interests:
 - Fast Radio Bursts
-- Pulsars
+- Neutron Stars
 - Transients
 - High energy astrophysical phenomena
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Astrophysics
+    institution: University of Amsterdam, The Netherlands
+    year: 2022
   - course: MSc in Astrophysics
     institution: Université Paul Sabatier, Toulouse, France
     year: 2018
