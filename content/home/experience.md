@@ -25,7 +25,7 @@ experience:
   - title: Rubicon Research Fellow
     company: Jodrell Bank Centre for Astrophysics, University of Manchester
     company_url: 'https://www.jodrellbank.manchester.ac.uk/'
-    company_logo: org-x
+    company_logo: icons/brands/UoM_logo.png
     location: Manchester, United Kingdom
     date_start: '2023-01-09'
     date_end: ''
