@@ -67,6 +67,7 @@ email: "ines.pastor.marazuela@gmail.com"
 highlight_name: true
 ---
 
-I am a final year PhD student in astrophysics at the Anton Pannekoek Institute (University of Amsterdam), working on fast radio burst searches with the Apertif radio telescope. I completed my Master at the Université Paul Sabatier (Toulouse, France) in 2018, and I am originally from Segovia, Spain.
+Hello! I'm Inés, a Rubicon Research Fellow in astrophysics at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK). I study Fast Radio Bursts (FRBs), a mysterious type of astrophysical transient that comes from very distant galaxies, only last a few milliseconds, and we only see in radio waves. To look for these FRBs, I used the Apertif radio telescope in the Netherlands during my PhD, and now I'm using the MeerKAT radio telescope in South Africa. I finished my PhD in November 2022, and before that I completed my Master's degree at the Université Paul Sabatier (Toulouse, France) in 2018. I was born and raised in the beautiful town of Segovia, in Spain.
 
+{{< icon name="download" pack="fas" >}} Here you can find my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}PhD thesis{{< /staticref >}}.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
