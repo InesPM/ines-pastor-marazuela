@@ -25,7 +25,7 @@ experience:
   - title: Rubicon Research Fellow
     company: Jodrell Bank Centre for Astrophysics, University of Manchester
     company_url: 'https://www.jodrellbank.manchester.ac.uk/'
-    company_logo: UoM_logo.png
+    company_logo: org-x
     location: Manchester, United Kingdom
     date_start: '2023-01-09'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: PhD in astrophysics
     company: Anton Pannekoek Institute
     company_url: 'https://api.uva.nl/'
-    company_logo: API_logo.jpg
+    company_logo: org-x
     location: Amsterdam, The Netherlands
     date_start: '2018-09-15'
     date_end: '2022-11-01'
