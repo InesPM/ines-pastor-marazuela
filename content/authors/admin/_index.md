@@ -69,5 +69,6 @@ highlight_name: true
 
 Hello! I'm Ines, a Rubicon Research Fellow in astrophysics at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK). I study Fast Radio Bursts (FRBs), a mysterious type of astrophysical transient that comes from very distant galaxies, only last a few milliseconds, and we only see in radio waves. To look for these FRBs, I used the Apertif radio telescope in the Netherlands during my PhD, and now I'm using the MeerKAT radio telescope in South Africa. I finished my PhD in November 2022, and before that I completed my Master's degree at the Université Paul Sabatier (Toulouse, France) in 2018. I was born and raised in the beautiful town of Segovia, in Spain.
 
-{{< icon name="download" pack="fas" >}} Here you can find my [PhD thesis](https://dare.uva.nl/search?identifier=36224458-8dd3-4562-aef7-90927d3c4554).
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="book" pack="fas" >}} Here you can find my [PhD thesis](https://dare.uva.nl/search?identifier=36224458-8dd3-4562-aef7-90927d3c4554). 
+
+{{< icon name="download" pack="fas" >}} Here you can download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
