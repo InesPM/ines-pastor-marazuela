@@ -6,7 +6,7 @@
 # Appearance
 
 theme: my_minimal
-day_night: true
+day_night: false
 font: rose
 font_size: L
 
@@ -23,11 +23,11 @@ twitter: ''
 email: ines.pastor.marazuela@gmail.com
 phone: +34 684 36 50 70
 address:
-  street: Alan Turing Building, The University of Manchester, Oxford Road
-  city: Manchester
-  postcode: 'M13 9PY'
-  country: United Kingdom
-  office: '3.223'
+  street: ASTRON, Oude Hoogeveensedijk 4
+  city: Dwingeloo
+  postcode: '7991 PD'
+  country: The Netherlands
+  # office: '3.223'
 # contact_links:
 #   - icon: twitter
 #     icon_pack: fab
